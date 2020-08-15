@@ -16,6 +16,6 @@ Test adding new image
 
 ![alternative text for search engines](1.jpg)
 
-
+And the new image
 
 ![alternative text for search engines](2.jpg)
