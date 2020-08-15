@@ -3,17 +3,16 @@ title: Khoi Nguyen
 role: PhD Candidate in Computer Science
 avatar_filename: nguyenkh.avatar-copy.jpg
 organizations:
-  - name: Stanford University
+  - name: Oregon State University
     url: ""
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Computer Vision and Machine Learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Image and Video Segmentation
+  - Few-shot Learning
+  - Object Tracking and Optimization
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,7 +42,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Khoi Nguyen is a PhD candidate in Computer Science at Oregon State University. His research interests include computer vision and machine learning. His current research focuses on applying deep learning approaches in computer vision such as image and video segmentation (semantic and instance segmentation), object tracking, few-shot learning, and optimization.
