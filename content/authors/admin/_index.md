@@ -1,7 +1,7 @@
 ---
 title: Khoi Nguyen
 role: PhD Candidate in Computer Science
-avatar_filename: nguyenkh.avatar-copy.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Oregon State University
     url: ""
