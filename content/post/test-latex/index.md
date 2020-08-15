@@ -14,4 +14,4 @@ $$E = mc^2$$
 
 Test adding new image
 
-!\[alternative text for search engines](5.jpg)
+![alternative text for search engines](5.jpg)
