@@ -12,7 +12,8 @@ bio: My research interests include Computer Vision and Machine Learning.
 interests:
   - Image and Video Segmentation
   - Few-shot Learning
-  - Object Tracking and Optimization
+  - Object Tracking
+  - Optimization
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,15 +29,12 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computer Science
+      institution: Oregon State University
+      year: 2017
+    - course: BSc in Computer Science
+      institution: Ho Chi Minh City University of Technology (Bach Khoa University)
+      year: 2014
 email: ""
 user_groups:
   - Researchers
