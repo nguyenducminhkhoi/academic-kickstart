@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Test for displaying this latex equation and test it works or not
+Test for displaying this latex equation and test it works or not haha
 
 $$E = mc^2$$
 
