@@ -19,3 +19,7 @@ Test adding new image
 And the new image
 
 ![alternative text for search engines](2.jpg)
+
+We can add additional features to this folder as well.
+
+![alternative text for search engines](5.jpg)
