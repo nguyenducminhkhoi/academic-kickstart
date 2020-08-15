@@ -12,7 +12,7 @@ Test for displaying this latex equation and test it works or not haha
 
 $$E = mc^2$$
 
-Test adding new image
+Test adding new image haha 
 
 ![alternative text for search engines](1.jpg)
 
