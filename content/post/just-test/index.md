@@ -7,5 +7,21 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
 ---
-Just Test this information is displayed correctly
+
+
+
+$a^2$ 
+$$
+E = mc^2
+$$
+$e^2$
+
+$\int_{x+1}^{x-4}3xdx$
+
+$x^3$
+
+$x^5$
+
+Among the text editor I have tried, Typora is the most beautiful one.

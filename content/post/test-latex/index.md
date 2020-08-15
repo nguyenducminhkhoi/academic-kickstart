@@ -8,9 +8,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Test for displaying this latex equation and test it works or not haha
+Test for displaying this latex equation and test it works or not haha $2^2$
 
 $$E = mc^2$$
+$$
+x^2 + 2x+3 = 1
+$$
+
+
+We can also test inline math such as: $3+x$
 
 Test adding new image haha 
 
