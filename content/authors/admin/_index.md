@@ -29,7 +29,7 @@ social:
     link: https://github.com/ducminhkhoi
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: "files/cv.pdf"
 education:
   courses:
     - course: MSc in Computer Science
