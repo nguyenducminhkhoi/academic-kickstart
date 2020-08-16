@@ -1,3 +1,12 @@
+---
+title: Test Latex 2
+date: 2020-08-16T08:07:22.372Z
+draft: true
+featured: true
+image:
+  preview_only: true
+  filename: 5.jpg
+---
 - - -
 
 ## title: Test latex
