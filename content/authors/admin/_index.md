@@ -29,7 +29,7 @@ social:
     link: https://github.com/ducminhkhoi
   - icon: cv
     icon_pack: ai
-    link: "files/cv.pdf"
+    link: files/cv.pdf
 education:
   courses:
     - course: MSc in Computer Science
@@ -38,7 +38,7 @@ education:
     - course: BSc in Computer Science
       institution: Ho Chi Minh City University of Technology (Bach Khoa University)
       year: 2014
-email: ""
+email: nguyenkh@oregonstate.edu
 user_groups:
   - Researchers
   - Visitors
