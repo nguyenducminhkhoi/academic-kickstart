@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern"
+  company = "AIBee US Corp."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Palo Alto, California"
+  date_start = "2019-06-21"
+  date_end = "2019-09-23"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Multi-person Tracking by Segmentation in Surveillance Camera
+  * Mentor: Dr. Chunhui Gu, Dr. Sinisa Todorovic, Dr. Silvio Savarese
+  * Result:  Improve the MOT performance about 5% over tracking by detection
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Verisk Analytics"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Jersey City, New Jersey"
+  date_start = "2018-06-15"
+  date_end = "2018-09-15"
+  description = """
+  * Apply Graph Neural Network to image document analysis for extracting semistructured information (W2 Form)
+  * Mentor: Dr. Maneesh Singh
+  * Result: Improve the current performance on synthetic dataset above 90 percent of accuracy, much better than baseline using CRF.
+  """
 
 +++

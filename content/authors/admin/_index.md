@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:nguyenkh@oregonstate.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ngducminhkhoi
@@ -30,6 +30,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: "files/cv.pdf"
+news:
+  - One paper accepted to ICPR 2020
 education:
   courses:
     - course: MSc in Computer Science
@@ -43,4 +45,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Khoi Nguyen is a PhD candidate in Computer Science at Oregon State University. His research interests include computer vision and machine learning. His current research focuses on applying deep learning approaches in computer vision such as image and video segmentation (semantic and instance segmentation), object tracking, few-shot learning, and optimization.
+Khoi Nguyen is a PhD candidate in Computer Science at Oregon State University. His research interests include computer vision and machine learning. His current research focuses on applying deep learning approaches in computer vision such as image and video segmentation, object tracking, few-shot learning, and optimization.
