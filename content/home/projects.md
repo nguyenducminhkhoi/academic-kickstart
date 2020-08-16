@@ -75,3 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
+* **Unsupervised Few-shot Learning (2019)**: we address the problem of unsupervised few-shot learning where all training images are unlabeled and do not share classes with labeled support images for few-shot classification in testing. We use a new GAN-like deep architecture aimed at unsupervised learning of an image representation which will encode latent object parts and thus generalize well to unseen classes in our few-shot recognition task.
+
+* **Few-shot Semantic Segmentation (2019)**: we address the problem of few-shot object segmentation, where the goal is to segment a query image, given a support image and the support’s ground-truth segmentation. We make two contributions. First, we have formulated an optimization problem that encourages high feature responses on the foreground and low feature activations on the background for more accurate object segmentation. Second, we have specified the gradient boosting of our model for finetuning to new classes in testing.
+  
+* **Few-shot Instance Segmentation (2020)**: we address the problem of few-shot instance segmentation, where the training and test settings do not share the same object classes. We specify and evaluate a new few-shot anchor-free part-based instance segmenter FAPIS. Our key novelty is in explicit reasoning about layouts of latent object parts for instance segmentation.

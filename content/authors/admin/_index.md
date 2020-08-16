@@ -30,8 +30,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: "files/cv.pdf"
-news:
-  - One paper accepted to ICPR 2020
 education:
   courses:
     - course: MSc in Computer Science
