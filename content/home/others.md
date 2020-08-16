@@ -23,12 +23,12 @@ date_format = "Jan 2006"
 
 * Reviewer for ECCV 2020
 
-### Programming Languages
+### Programming skills
 
-* Day use: Python
+* Programming Languages: Python, C++
 * Deep Learning frameworks: Pytorch, Keras, TensorFlow
 * Scientific frameworks: Numpy, Scipy, Matplotlib, Scikit-learn
 
-### Awards/Scholarship
+### Awards/Scholarships
 
 * VietNam Education Foundation (VEF) Fellowship (Cohort 2015)
