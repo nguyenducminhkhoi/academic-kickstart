@@ -30,6 +30,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: files/cv.pdf
+  - link: files/cv.pdf
+    icon_pack: ai
+    icon: cv
 education:
   courses:
     - course: MSc in Computer Science
